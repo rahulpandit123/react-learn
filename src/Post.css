@@ -1,0 +1,19 @@
+/* p{
+    padding:0 45px;
+} */
+.Post {
+    width: 80%;
+    padding: 1.2rem 16px;
+    text-align: center;
+    border: 1px solid #123;
+    box-shadow: 0 2px 3px #ccc;
+     margin: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+     justify-content: space-between; 
+    margin: auto;
+    
+}
